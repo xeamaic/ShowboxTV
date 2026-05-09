@@ -7,6 +7,7 @@
 Load and manage your private Febbox cookies using a lightweight local
 HTTP server and custom provider configuration.
 
+Massive shout out to Xyr0nX/Antonio Ante for making this work.
 ------------------------------------------------------------------------
 
 ## ✨ Features
